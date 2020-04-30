@@ -76,3 +76,9 @@ Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage
 
 * `cat test.txt`
 
+### 8.删除远程仓库文件，但是保留本地文件
+
+    第一步：git rm --cached -r 文件名/或文件夹名
+    第二步：git commit -m "remove file"
+    第三步：git push
+
