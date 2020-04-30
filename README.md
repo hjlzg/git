@@ -4,7 +4,7 @@ https://www.liaoxuefeng.com/wiki/896043488029600
 https://www.cnblogs.com/qdhxhz/p/9757390.html 
 
 Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage/Index)、资源库(Repository)、git仓库(Remote Directory)。文件在这四个区域之间的转换关系如下:
-![](https://img2018.cnblogs.com/blog/1090617/201810/1090617-20181008211557402-232838726.png)
+![](file\workSpace.png)
 
 <font color=#FF7F27>Workspace</font> : 工作区,就是你平时存放项目代码的地方  
 <font color=#FF7F27>Index / Stage</font>:暂存区,用于临时存放你的改动，事实上它只是一个文件，保存即将提交到文件列表信息  
