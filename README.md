@@ -25,7 +25,7 @@ Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage
     `git commmit -m 'decriptions' `
      
 4) > 关联远程仓库<font color=red>(第一次使用需要添加)</font>   
-   `git remote add origin http://172.16.89.35:8888/yepeng/ExScheduler.git `
+   `git remote add origin http://127.0.0.1:8888/yepeng/ExScheduler.git `
 
 5) > 获取远程库与本地同步<font color=red>(远程仓库不为空需要这一步)</font>   
     `git pull --rebase origin master`
