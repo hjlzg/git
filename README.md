@@ -82,3 +82,10 @@ Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage
     第二步：git commit -m "remove file"
     第三步：git push
 
+### 9.git tag
+
+* > 查看标签
+    `git tag`
+
+* > 创建标签
+   `git tag -a v1.0 -m 'my version 1.0'`
