@@ -90,5 +90,8 @@ Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage
 * > 创建标签
    `git tag -a v1.0 -m 'my version 1.0'`
 
+* > 后期添加标签
+  `git tag -a v1.2 9fceb02`
+
 
 ### 10.test tag
