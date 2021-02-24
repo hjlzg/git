@@ -109,3 +109,9 @@ Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage
 
 * > 切换分支
     `git checkout testBranch`
+
+* > 合并分支
+    `git merge`
+
+* > 删除分支
+  `git branch -d testBranch`
