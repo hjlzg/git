@@ -100,4 +100,12 @@ Git本地有四个工作区域:工作目录(Working Directory)、暂存区(Stage
   `git tag -d v1.2`
 
 
-### 10.test tag
+### 10.创建分支branch
+* > 列出分支
+    `git branch`
+
+* > 创建分支
+  `git branch testBranch`
+
+* > 切换分支
+    `git checkout testBranch`
